@@ -85,9 +85,8 @@
     <div class="card">
      <h2>Projetos</h2>
       <h3>Portfólio Pessoal</h3>
-
-      <p>Esse é o meu portfólio ele é moderno e desenvolvido em HTML, CSS e JavaScript para apresentar meus projetos e habilidades que e desenvolvi com o Alura.</p>
-    </div>
+      Esse é o meu portfólio ele é moderno e desenvolvido em HTML, CSS e JavaScript para apresentar meus projetos e habilidades que e desenvolvi com o Alura.
+   
   </section>
 
   <section id="habilidades">
@@ -106,10 +105,9 @@
     <div class="card">
       <h2>Contato</h2>
       <p>Email: <a href="mailto:lucasbatistastoll038@gmail.com">lucasbatistastoll038@gmail.com</a></p>
-      <p>Telefone: <a href="tel:+5511984422388">(11) 984422388</a></p>
       <p>GitHub: <a href="https://github.com/Lucasprojetos329" target="_blank">github.com/Lucasprojetos329</a></p>
 
-    </div>
+  
   </section>
 
   <footer>
